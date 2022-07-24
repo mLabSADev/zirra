@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896648657509",
+    "project_id": "zirra-6ccd4",
+    "storage_bucket": "zirra-6ccd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896648657509:android:8e65478b181d05c9fee48c",
+        "android_client_info": {
+          "package_name": "com.zirra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896648657509-b1ej1ql2q56qr43s7f4gn3b12kq777kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zirra",
+            "certificate_hash": "4a6681751f3e8ea7ce63b830eed2a48e029b73e0"
+          }
+        },
+        {
+          "client_id": "896648657509-mhg3q1dbiu3t557m59vsfeokrih01385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsdSGRiV8RY_GK-LOl4gweMqorPQASmX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896648657509-mhg3q1dbiu3t557m59vsfeokrih01385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
